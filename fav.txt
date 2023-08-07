@@ -1,3 +1,6 @@
 apple
 orange
 banana
+one 
+two
+three
